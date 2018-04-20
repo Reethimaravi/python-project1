@@ -1,0 +1,12 @@
+age,employ,ms,gender,income
+25,private,s,male,<5L
+40,govt,m,male,>5L
+33,private,s,fem,>5L
+60,self emp,s,fem,<5L
+20,govt,s,male,<5L
+50,private,s,fem,>5L
+55,self emp,m,fem,<5L
+20,govt,m,male,<5L
+50,private,s,fem,>5L
+32,govt,s,male,<5L
+60,self emp,m,fem,<5L
